@@ -12,7 +12,7 @@ I am a passionate software developer with a love for technology and continuous l
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Python, Java, C++, HTML, CSS
 - **Frameworks/Libraries:** React, Spring Boot
 - **Tools:** Git
 - **Databases:** MySQL
