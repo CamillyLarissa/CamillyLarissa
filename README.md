@@ -1,5 +1,4 @@
-## Hi there, I'm Camilly Larissa! 👋
-
+## Hi There, I'm Camilly Larissa
 ## About Me
 
 I am a passionate software developer with a love for technology and continuous learning. My goal is to create impactful software solutions that can make a difference in people's lives.
@@ -7,7 +6,7 @@ I am a passionate software developer with a love for technology and continuous l
 - 🌱 I’m currently learning advanced web development techniques.
 - 🔭 I’m working on several exciting open-source projects.
 - 💬 Ask me about software development, open source, and technology in general.
-- 📫 How to reach me: [Email](mailto:camillylarissa@example.com)
+- 📫 How to reach me: [Email](mailto:camillylarissa05@gmail.com)
 - 😄 Pronouns: She/Her
 
 ## Skills
@@ -19,7 +18,7 @@ I am a passionate software developer with a love for technology and continuous l
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/camillylarissa)
+- [LinkedIn](http://www.linkedin.com/in/camilly-larissa-68308432b)
 - [GitHub](https://github.com/CamillyLarissa)
 
 Thank you for visiting my profile! Have a great day! 😊
