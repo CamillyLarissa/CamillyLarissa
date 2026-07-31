@@ -1,152 +1,74 @@
 <div align="center">
 
-# Hi there, I'm Camilly Larissa! 🌸
+# Hi there, I'm Camilly Larissa!
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Software+Developer+in+Training;Computer+Science+Student;Backend+%26+Web+Development;AWS+Cloud+%26+AI+Practitioner"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Software+Development+Intern;Computer+Science+Student;Backend+%26+Web+Development;Cloud+Computing+%26+Artificial+Intelligence"
   alt="Typing animation"
 />
+
+<p>
+  I am a Computer Science student and Software Development Intern interested in backend development, web applications, cloud computing and artificial intelligence. I am always looking to improve my skills, contribute to meaningful projects and grow as a Software Engineer.
+</p>
 
 <br>
 
 <p>
-  Passionate about technology, software development and continuous learning.
+  <img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=E75480" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=python&logoColor=E75480" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=E75480" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=E75480" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=E75480" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=E75480" alt="CSS3" />
 </p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Spring_Boot-FFFFFF?style=flat-square&logo=springboot&logoColor=E75480" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Django-FFFFFF?style=flat-square&logo=django&logoColor=E75480" alt="Django" />
+  <img src="https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=E75480" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Angular-FFFFFF?style=flat-square&logo=angular&logoColor=E75480" alt="Angular" />
+  <img src="https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoColor=E75480" alt="React" />
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=E75480" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=E75480" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git&logoColor=E75480" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github&logoColor=E75480" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker&logoColor=E75480" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=E75480" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Postman-FFFFFF?style=flat-square&logo=postman&logoColor=E75480" alt="Postman" />
+</p>
 
-##  About Me
-
-I am a Computer Science student and software development intern, passionate about creating useful and meaningful technology solutions.
-
-I am especially interested in backend development, web applications, cloud computing and artificial intelligence.
-
-- 💻 Software Development Intern
-- 🎓 Computer Science student
-- 🌱 Currently improving my backend and web development skills
-- ☁️ AWS Certified Cloud Practitioner
-- 🤖 AWS Certified AI Practitioner
-- 🚀 Interested in Software Engineering opportunities
-- 📍 Piauí, Brazil
-
----
-
-## Technologies and Tools
-
-<div align="center">
-
-### Languages
-
-<img
-  src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css"
-  alt="Programming languages"
-/>
-
+<br>
 <br><br>
-
-### Frameworks and Libraries
-
-<img
-  src="https://skillicons.dev/icons?i=spring,django,fastapi,angular,react"
-  alt="Frameworks and libraries"
-/>
-
-<br><br>
-
-### Databases and Tools
-
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,maven,postman,aws"
-  alt="Databases and development tools"
-/>
-
-</div>
-
----
-
-
-##  GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=CamillyLarissa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8FB1&icon_color=FF8FB1&text_color=FFFFFF"
-  />
-
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=CamillyLarissa&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=E75480&icon_color=FF69B4&text_color=555555"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=CamillyLarissa&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=E75480&icon_color=FF69B4&text_color=555555"
-    alt="Camilly's GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillyLarissa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8FB1&text_color=FFFFFF"
-  />
-
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillyLarissa&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=E75480&text_color=555555"
-  />
-
-  <img
-    width="36%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillyLarissa&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=E75480&text_color=555555"
-    alt="Camilly's most used languages"
-  />
-</picture>
-
-</div>
-
----
-
----
-
-##  Connect with Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/camilly-larissa-68308432b">
   <img
-    src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=E75480"
+    src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=E75480"
     alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:camillylarissa05@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E75480"
+    src="https://img.shields.io/badge/-Email-FFFFFF?style=flat-square&logo=gmail&logoColor=E75480"
     alt="Email"
   />
 </a>
 
-<a href="https://github.com/CamillyLarissa">
-  <img
-    src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=E75480"
-    alt="GitHub"
-  />
-</a>
+<br><br>
 
-</div>
+<p>Thanks for visiting my profile!</p>
 
----
+<br><br>
 
-<div align="center">
+<img
+  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+  height="40"
+  alt="Animated character"
+/>
 
-### Thanks for visiting my profile! 🌸
-<br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 
 <img
