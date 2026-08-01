@@ -3,21 +3,39 @@
 # Hi there, I'm Camilly Larissa!
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=E75480&center=true&vCenter=true&width=650&height=45&lines=Software+Development+Intern;Computer+Science+Student;Backend+%26+Web+Development;Cloud+Computing+%26+Artificial+Intelligence"
-  alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=23&duration=3500&pause=900&color=E75480&center=true&vCenter=true&width=650&height=50&lines=Software+Development+Intern;Computer+Science+Student;Backend+%26+Web+Development;Cloud+Computing+%26+Artificial+Intelligence"
+  alt="Software Development Intern, Computer Science student and backend developer"
 />
-
-<br>
-
-<p>
+<p align="justify">
   I am a Computer Science student and Software Development Intern interested in
   backend development, web applications, cloud computing and artificial intelligence.
   I am always looking to improve my skills, contribute to meaningful projects and
   grow as a Software Engineer.
 </p>
-
 <br>
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<p>
+  <a href="https://www.linkedin.com/in/camilly-larissa-68308432b">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:camillylarissa05@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+      alt="Email"
+    />
+  </a>
+</p>
+<div align="center">
+
+<img
+  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
+  width="50"
+  alt="Animated character"
+/>
+
 <h3>Technologies and Tools</h3>
 
 <p>
@@ -49,28 +67,9 @@
 
 <br>
 
-<h3>Contact</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/camilly-larissa-68308432b">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:camillylarissa05@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-      alt="Email"
-    />
-  </a>
-</p>
-
 <br>
 
-<p>
-  Thanks for visiting my profile!
-</p>
+<p>Thanks for visiting my profile!</p>
 
 <img
   src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
@@ -78,12 +77,9 @@
   alt="Animated character"
 />
 
-<br><br>
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:E75480,100:FADADD&height=90&section=footer"
   width="100%"
   alt="Pink footer"
 />
-
 </div>
