@@ -1,30 +1,32 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=1000&color=E75480&center=true&vCenter=true&repeat=false&width=850&height=75&lines=Hi+there%2C+I'm+Camilly+Larissa!"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=D85B8B&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Hi+there%2C+I'm+Camilly+Larissa!"
   alt="Hi there, I'm Camilly Larissa!"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=700&height=45&lines=Software+Development+Intern;Computer+Science+Student;Backend+%26+Web+Development;"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3200&pause=900&color=8B6F7D&center=true&vCenter=true&width=700&height=42&lines=Software+Development+Intern;Computer+Science+Student;Backend+%26+Web+Development;AWS+Cloud+%26+AI+Practitioner"
   alt="Professional information"
 />
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/camilly-larissa-68308432b">
     <img
-      src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/LinkedIn-D85B8B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:camillylarissa05@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/Email-D85B8B?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
       alt="Email"
     />
   </a>
 </p>
+
+</div>
 
 </div>
 
@@ -133,7 +135,7 @@
     alt="Postman"
   />
 </p>
-
+<br><br>
 <p>𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!</p>
 
 <img
